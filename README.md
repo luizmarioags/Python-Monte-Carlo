@@ -57,7 +57,7 @@ Além de gerar:
 ![Distribuição Normal Simulada](https://github.com/luizmarioags/Python-Monte-Carlo/blob/main/Imagens/sim_alturas.png)
 
 # Dados Utilizados
-O conjunto de dados utilizado nesse repositório é o conjunto clássico sobre Diabetes,elaborado por Efron, Bradley & Hastie, Trevor & Johnstone, Iain & Tibshirani, Rob. (2004) em seus estudos sobre Diabetes e a progressão da doença em relação ás mais diversas variáveis
+O conjunto de dados utilizado neste repositório é o conjunto clássico sobre Diabetes, elaborado por Efron, Bradley & Hastie, Trevor & Johnstone, Iain & Tibshirani, Rob. (2004) em seus estudos sobre Diabetes, analisando  a progressão da doença em relação às mais diversas variáveis.
 
 # **Referências Bibliográficas**
 
